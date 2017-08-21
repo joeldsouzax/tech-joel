@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "My Resume"
+date:   2017-08-21 18:16:58 +0530
+categories: resume
+---
+
+
+**Success**
+
+>*That is what drives me, I yearn to grow and become better, to become the best in my field and it is this longing that drives me to study and research. that and my unfathomable thirst for knowledge.*
+>
+>*I love criticism, it helps me grow.*
+>
+>*I would do whatever it takes to find the most efficient and wholesome solution to the problem I have, just fixing it does not seem so elegant (it has to be perfect)*.
+>
+>*I am clam and responsible with my work and I love to understand the "why" of any particular thing, everything has a reason, and it is important to know them to master it.*
+>
+>*Honesty and integrity are the most important trait a person should posses*
+
+
+
+
+
+**Skills**
+
+
+```
+Java 		#############################   	| 80%
+
+Selenium 	########################		| 70%
+
+Linux/Unix	#############################	        | 80%
+
+Cucumber 	###########################		| 75%
+
+Shell		#########################		| 70%
+
+Mysql		###################			| 60%
+
+Docker		#########################		| 70%
+
+CI   	        #########################	    	| 70%
+
+Testing 	#############################   	| 80%
+```
+
+
+**Work Experience:**
+
+*2015-2017*
+>
+>Seamless Private Limited
+>
+>Had the opportunity to work on ERS (Electronic Recharge System) take part in building and maintaining this system.
+>
+>Responsible for building and maintaining Test Automation framework in Java, writing test cases in Cucumber and Java, also working closely with developers and debugging the bug or defects and fixing them,
+>Utilising Atlassian tools and products to manager, track and lodge defects and bugs, part of small and agile team.
+>
+>Part of the team which implemented Continuous Integration and deployment, extensive knowledge in LINUX and UNIX environment to Test out the product
+
+
+*2011-2015*
+
+>ZI Systech Pvt Ltd (Zarca Interactive)
+>
+>Quality Assurance Engineer
+>
+>Responsible for Test case Execution, Creation for a product based company, I have had worked in their Quality Assurance team working on their products like SoGoSurvey, Zarca Interactive and K12Insight, which were Survey Creation tool for intended markets,
+>
+>I was also part of their client services team along with my Quality Assurance position, which culminated in I becoming the lead of that particular team.
+>
+>The testing was mostly manual testing, scrutinising the application and finding bugs and defects and lodging them in the bug tracker.
+
+
+**Education:**
+
+*2008-2011*
+
+>Bachelors of Science in Information Technology.
+>		Mumbai University
+
+*2006-2011*
+
+>Higher Secondary in Science
+>		St Annes School and Junior College
+
+
+
+
+
+
+
+[**Download My resume**](https://drive.google.com/open?id=0BzSijg0eGTpCSEJWaHBXUnNHVnc)
+

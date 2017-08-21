@@ -1,0 +1,43 @@
+
+body {
+	margin: 0;
+	color: $font-color;
+	font-family: $font-style;
+	font-size: 1.1em;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+a,
+a:visited {
+	color: $link-color;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+	color: $link-hover-color;
+	text-decoration: underline;
+}
+header {
+	background: $header;
+	padding: 0px 15px;
+	text-align: center;
+	margin: 50px 0 0;
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+main {
+	padding: 0 15px;
+	max-width: $content-width;
+	margin: 0 auto;
+}
+time {
+	color: #898989;
+}
+.container {
+	max-width: $content-width;
+	margin: 0 auto;
+}
+

@@ -1,0 +1,20 @@
+
+<div class="container">
+		<nav class="navbar navbar-toggleable-md fixed-top navbar-light bg-faded" style="background: #FFFFFF">
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarCollapse">
+			<ul class="navbar-nav font-nav-bar">
+				{% for page in site.pages %} {% if page.title %}
+				<li class="nav-item"><a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+				<li class="nav-item"><a class="nav-link" href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+			</ul>
+		</div>
+	</nav>
+	</div>
+
+<header style="text-align: center">
+	<h1 class="display-1"><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+</header>
