@@ -1,20 +1,49 @@
+<nav class="navbar navbar-light bg-faded rounded navbar-toggleable-md">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#containerNavbarCenter" aria-controls="containerNavbarCenter" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
 
-<div class="container">
-		<nav class="navbar navbar-toggleable-md fixed-top navbar-light bg-faded" style="background: #FFFFFF">
-		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarCollapse">
+	<div class="collapse navbar-collapse justify-content-md-center" id="containerNavbarCenter">
 			<ul class="navbar-nav font-nav-bar">
 				{% for page in site.pages %} {% if page.title %}
 				<li class="nav-item"><a class="nav-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}
 				<li class="nav-item"><a class="nav-link" href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
 			</ul>
-		</div>
-	</nav>
 	</div>
+</nav>
 
-<header style="text-align: center">
-	<h1 class="display-1"><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
-</header>
+<div class="container">
+	<div class="row">
+		<br>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-4">
+
+		</div>
+		<div class="col-md-4 text-center">
+			<img src="assets/joel.jpg" class="img-thumbnail" width="200" height="200"/>
+			<div class="col-md-4">
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-4">
+		</div>
+		<div class="col-md-4">
+				<div class="nameLogo" style="text-align: center">
+					<span class="devLeft"><</span>{{ site.name }}<span class="devRight">/></span><div class="nameText"> <span class="nameWord">QA</span><span class="web">Engineer</span>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+</div>

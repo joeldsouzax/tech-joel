@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+
+.nameLogo{
+    font-weight: 400;
+    font-family: 'Lato',Calibri, Arial, SansSerif;
+    color: #78909C;
+    font-size: 30px;
+    position: relative;
+    top:-50px;
+    left: 0px;;
+    margin: 0;
+}
+
+.nameWord{
+    color: #3BAFDA;
+}
+
+.devRight, .devLeft{
+    font-family: arial;
+    font-size: 100px;
+    position: relative;
+    top: 38px;
+    color: #3BAFDA;
+    margin: 0 0 0 5px;
+}
+
+.nameText{
+    font-size: 19px;
+    position: relative;
+    top: -40px;
+    left: -20px;
+}
+
+.devLeft{
+    margin: 0 5px 0 0;
+}
+
+.headingText{
+    font-family: Ubuntu;
+    color: #808080;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+
+
+body {
+    font-family: 'Lato',Calibri, Arial, SansSerif;
+    background: #FFFFFF;
+    color: #fff;
+}

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TechJoel
-name: Joel DSouza
+name: Joel D'Souza
 email: joedso1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Joel D'Souza is a millennial from Mumbai who loves to experiment (mostly techologically) and loves to play guitar, good in java, linux and exceptionally good in understanding and grasping new knowledge.
